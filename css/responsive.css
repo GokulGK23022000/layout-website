@@ -1,0 +1,167 @@
+@media (min-width:320px) and (max-width:767px)
+{
+.container{
+	width:100%;
+}
+.col_sd_3{
+	width:25%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.col_sd_6{
+	width:50%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.col_sd_12{
+	width:100%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.dis_none{
+	display:none;
+}
+.ban_cnt{
+	font-size:10px;
+}
+.price_content a{
+	margin-left:7rem;
+}
+.order_1{
+	order:1;
+}
+.order_2{
+	order:2;
+}
+.ban_cnt{
+	text-align:center;
+	font-size:37px;
+}
+.ban_cnt p{
+	font-size:2rem; 
+}
+.ban_cnt a{
+	text-align:center;
+   font-size:2.2rem;
+}
+.box5{
+	text-align:center;
+}
+.ban4 i{
+	color:#e03a3c;
+	display:flex;
+	font-size: 32px;
+}
+.ban4 h1{
+	margin-left:30%;
+}
+.ban4 p{
+	margin-left:30%;
+}
+.card{
+	width:90%;
+}
+.faq1 p{
+	width:100%;
+}
+.faq_title h2{
+	margin-left:-3rem;
+}
+.con_left1 button{
+	margin-left:2rem;
+}
+.last_cnt4{
+	margin-left:0rem;
+}
+
+}
+
+
+@media (min-width:768px) and (max-width:999px)
+{
+.container{
+	width:90%;
+}
+  .col_md_6{
+        width:50%;
+        flex:0 0 auto;
+        padding:0 15px;
+    }
+    .order1{
+        order:1;
+    }
+    .order2{
+        order:2;
+    }
+ .flex_item5 {
+	width: 100%;
+    margin-top: 11rem;
+ }
+    .col_md_3{
+    width:25%;
+	flex:0 0 auto;
+	padding:0 15px;
+    }
+    
+    .col_md_12{
+        width:100%;
+        flex:0 0 auto;
+        padding:0 15px;
+    }
+    .ban_cnt p {
+    font-size: 41px;
+}
+	.ban_cnt{
+	text-align:center;
+	font-size:40px;
+}
+	.ban_cnt i{
+	text-align:center;
+}
+	.box5{
+	text-align:center;
+}
+	.ban4 i{
+	color:#e03a3c;
+	display:flex;
+	font-size: 32px;
+}
+.price_content a{
+	margin-left:7rem;
+}
+.con_box4{
+	margin-top:40px;
+}
+.ban4{
+	height:35vh;
+}
+.ban4 h1{
+	margin-left:25%
+}
+.ban4 p{
+	margin-left:25%;
+}
+.con_box12 img{
+	width:15%;
+}
+.price_content a{
+	margin-left:7rem;
+}
+.last_cnt4 a{
+	margin-left:8rem;
+}
+.dis_none1{
+	display:none;
+}
+}
+
+@media (min-width:999px)
+{
+.container{
+	width:90%;
+}
+
+}
